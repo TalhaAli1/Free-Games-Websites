@@ -9,7 +9,7 @@
 <a href="https://oceansofgamess.com/">2.OCEAN OF GAMES</a>
 <b><a href="https://www.greenmangaming.com/">3.GREEN MAN GAMING</a></b>
 <a href="https://www.gametop.com/">4.GAMETOP</a>
-<h3>THANKS FOR WISITING OUR SITE</h3>
+<h3>THANKS FOR VISITING OUR SITE</h3>
 <h4>For More Sites Contact Here</h4>
 <p style="color:green">crazyboy6541abcdef@gmail.com</p>
 </head>
